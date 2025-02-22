@@ -9,3 +9,4 @@ joblib
 wikipedia
 Pillow
 scikit-image
+pyttsx3
